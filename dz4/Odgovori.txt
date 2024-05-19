@@ -1,0 +1,1 @@
+U prvom primjeru obrazac je graditelj, a u drugome metoda tvornica, oni pripadaju obrascima stvaranja.
